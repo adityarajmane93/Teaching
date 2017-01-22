@@ -8,5 +8,5 @@ by Al Sweigart
 -Book based snippets would be named book-{file}
 
 Info about personal files:
-tables.java - can generate mathematical tables of any number you enter
-turtle.py - introductory program to make animations in turtle
+ 1. tables.java - can generate mathematical tables of any number you enter
+ 2. turtle.py - introductory program to make animations in turtle
