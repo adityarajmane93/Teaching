@@ -60,5 +60,5 @@ wn.listen()
 while True:
   a.clear()
   ang=+speed
-  pinwheelang
+  pinwheel(ang) 
   a.update() 
